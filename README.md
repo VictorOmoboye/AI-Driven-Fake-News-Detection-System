@@ -8,7 +8,18 @@
 In today's digital world, misinformation spreads faster than ever. This project presents a machine learning-powered **Fake News Detection System** that analyzes news articles and classifies them as *real* or *fake*. By combining natural language processing (NLP) with ensemble learning techniques, this tool can assist media organizations, platforms, and fact-checking services in identifying misleading information automatically.
 
 ---
+## TABLE OF CONTENTS
 
+- [Problem Statement](#-problem-statement)
+- [Methodology](#-methodology)
+- [Tools & Technologies](#️-tools--technologies)
+- [Key Insights](#-key-insights)
+- [Real-World Impact](#-real-world-impact)
+- [Future Enhancements](#-future-enhancements)
+- [Project Snapshots](#️-project-snapshots)
+- [Contact](#-contact)
+
+---
 ## PROBLEM STATEMENT  
 With the growing volume of online news, it's nearly impossible to manually fact-check every story. This project aims to build an intelligent, scalable, and interpretable model that classifies news articles based on their content and metadata using supervised learning.
 
