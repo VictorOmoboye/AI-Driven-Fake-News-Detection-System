@@ -58,10 +58,10 @@ With the growing volume of online news, it's nearly impossible to manually fact-
 
 ## KEY INSIGHTS
 
-- 📈 Most fake news spiked in **mid-2016**, aligning with real-world political events.
-- 📰 Categories like **Politics** and **World News** were commonly misused for fake headlines.
-- 📅 Time-based features helped in spotting seasonal misinformation trends.
-- 🧠 **Ensemble models** delivered better generalization than individual classifiers.
+- Most fake news spiked in **mid-2016**, aligning with real-world political events.
+- Categories like **Politics** and **World News** were commonly misused for fake headlines.
+- Time-based features helped in spotting seasonal misinformation trends.
+- **Ensemble models** delivered better generalization than individual classifiers.
 
 ---
 
@@ -78,10 +78,10 @@ This system can be adapted by:
 
 ## FUTURE ENHANCEMENTS
 
-- 🔧 Integrate **BERT** or **RoBERTa** for deep contextual understanding.  
-- 🛠️ Build an **interactive web app** using Streamlit or Flask.  
-- 📊 Add a **credibility scoring system** with explainable AI (e.g., SHAP).  
-- 🌐 Enable **multilingual fake news detection**.  
-- 👤 Personalize detection based on user interest and past behavior.
+- Integrate **BERT** or **RoBERTa** for deep contextual understanding.  
+- Build an **interactive web app** using Streamlit or Flask.  
+- Add a **credibility scoring system** with explainable AI (e.g., SHAP).  
+- Enable **multilingual fake news detection**.  
+- Personalize detection based on user interest and past behavior.
 
 ---
