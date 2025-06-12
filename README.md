@@ -96,6 +96,17 @@ This system can be adapted by:
 - Personalize detection based on user interest and past behavior.
 
 ---
+## PROJECT SNAPSHOT
+### EDA
+![image](https://github.com/user-attachments/assets/57929a31-9132-4e89-a934-81fd1fd521f5)
+
+### Model Metrics
+![image](https://github.com/user-attachments/assets/dab0d12b-23e1-436c-8e7d-90694cb329d1)
+
+---
+## THANK YOU
+For more information, you can contact me
+![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
 
 # Still under contruction.....
 ## Check back later to read full articles and code.....
