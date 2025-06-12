@@ -107,6 +107,3 @@ This system can be adapted by:
 ## THANK YOU
 For more information, you can contact me
 ![image](https://github.com/user-attachments/assets/400a6867-54ca-409f-b788-6d12b14d0833)
-
-# Still under contruction.....
-## Check back later to read full articles and code.....
